@@ -10,3 +10,4 @@ class Dog
 end
 
 Dog.new
+dog_name="Fido"
