@@ -9,5 +9,4 @@ class Dog
   end
 end
 
-Dog.new
-@dog_name="Fido"
+Dog.new = "Fido"
