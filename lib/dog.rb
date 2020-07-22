@@ -9,4 +9,4 @@ class Dog
   end
 end
 
-ginger=Dog.new
+"Fido"=Dog.new
