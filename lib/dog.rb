@@ -10,4 +10,3 @@ class Dog
 end
 
 ginger=Dog.new
-ginger.dog_name
