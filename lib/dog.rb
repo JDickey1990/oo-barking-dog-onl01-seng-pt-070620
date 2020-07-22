@@ -10,4 +10,4 @@ class Dog
 end
 
 Dog.new
-Dog.dog_name="Fido"
+dog_name="Fido"
